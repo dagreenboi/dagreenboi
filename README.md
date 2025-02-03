@@ -1,5 +1,5 @@
-<h1>Hiya, i'm DaGreenBoi!</h1>
-<span>I am a passionate German Developer specializing in JavaScript Development.</span>
+<h1>👋 Hiya, i'm DaGreenBoi!</h1>
+<span>I am a passionate 1German Developer specializing in JavaScript Development.</span>
 
 <h2>Technologies i use</h2>
 
