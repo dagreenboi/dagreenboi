@@ -1,5 +1,5 @@
 <h1>Hiya, i'm DaGreenBoi!</h1>
-<span>I am a passionate 12 Year Old German Developer specializing in JavaScript Development.</span>
+<span>I am a passionate German Developer specializing in JavaScript Development.</span>
 
 <h2>Technologies i use</h2>
 
